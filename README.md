@@ -1,8 +1,8 @@
 # Shittercom
 Alternatives for Intercoms' online chat support system for your website
 
-Product | Website | Free plan
------------- | ------------- | -------------
+Product | Website | Free plan | Notes
+------------ | ------------- | ------------- | -------------
 Chaport | https://www.chaport.com/ | ✅
 Chat.io | https://www.chat.io/ | ❌
 Crisp | https://crisp.chat/ | ✅
@@ -15,9 +15,9 @@ Kayako | https://www.kayako.com/ | ✅
 LiveAgent | https://www.ladesk.com/ | ❌
 LiveChat | https://www.livechatinc.com/ | ❌
 Olark | https://www.olark.com/ | ❌
-Rocket.Chat | https://rocket.chat/ | Open Source
-Slaask | https://get.slaask.com/ | ❌ (Requires Slack)
-Smallchat | https://small.chat/ | ✅ (Requires Slack)
+Rocket.Chat | https://rocket.chat/ | ❌ Cloud <br> ✅ Self-hosted | Open Source
+Slaask | https://get.slaask.com/ | ❌ | Requires Slack
+Smallchat | https://small.chat/ | ✅ | Requires Slack
 Tawk.to | https://www.tawk.to/ | ✅
 UseResponse | https://www.useresponse.com/live-chat-messengers-software | ❌
 ZenDesk Chat | https://www.zendesk.nl/chat/ | ✅
