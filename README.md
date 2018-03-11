@@ -18,6 +18,7 @@ Olark | https://www.olark.com/ | ❌
 Rocket.Chat | https://rocket.chat/ | ❌ Cloud <br> ✅ Self-hosted | Open Source
 Slaask | https://get.slaask.com/ | ❌ | Requires Slack
 Smallchat | https://small.chat/ | ✅ | Requires Slack
+Smartsupp | https://www.smartsupp.com | ✅
 Tawk.to | https://www.tawk.to/ | ✅
 UseResponse | https://www.useresponse.com/live-chat-messengers-software | ❌
 ZenDesk Chat | https://www.zendesk.nl/chat/ | ✅
