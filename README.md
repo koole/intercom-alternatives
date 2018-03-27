@@ -19,6 +19,7 @@ Rocket.Chat | https://rocket.chat/ | ❌ Cloud <br> ✅ Self-hosted | Open Sourc
 Slaask | https://get.slaask.com/ | ❌ | Requires Slack
 Smallchat | https://small.chat/ | ✅ | Requires Slack
 Smartsupp | https://www.smartsupp.com | ✅
+Spagett | https://github.com/Syosset/spagett | ✅ Self-hosted | Open Source
 Tawk.to | https://www.tawk.to/ | ✅
 UseResponse | https://www.useresponse.com/live-chat-messengers-software | ❌
 ZenDesk Chat | https://www.zendesk.nl/chat/ | ✅
