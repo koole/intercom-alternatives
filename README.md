@@ -12,6 +12,7 @@ GoSquared Live Chat | https://www.gosquared.com/live-chat/ | ❌
 HelpCrunch | https://helpcrunch.com/ | ❌
 Jivochat | https://www.jivochat.com/ | ✅
 Kayako | https://www.kayako.com/ | ✅
+Kustomer | https://www.kustomer.com/ | ❌
 LiveAgent | https://www.ladesk.com/ | ❌
 LiveChat | https://www.livechatinc.com/ | ❌
 Olark | https://www.olark.com/ | ❌
