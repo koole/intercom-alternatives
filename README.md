@@ -5,6 +5,7 @@ Product | Website | Free plan | Notes
 ------------ | ------------- | ------------- | -------------
 Chaport | https://www.chaport.com/ | ✅
 Chat.io | https://www.chat.io/ | ❌
+Chatlio | https://chatlio.com/ | ❌ | Requires Slack
 Crisp | https://crisp.chat/ | ✅
 Drift | https://www.drift.com/ | ✅
 Freshchat | https://www.freshworks.com/live-chat-software/ | ✅
