@@ -17,6 +17,7 @@ Kustomer | https://www.kustomer.com/ | ❌
 LiveAgent | https://www.ladesk.com/ | ❌
 LiveChat | https://www.livechatinc.com/ | ❌
 Olark | https://www.olark.com/ | ❌
+Output Desk | http://www.outputdesk.com/ | ✅
 Rocket.Chat | https://rocket.chat/ | ❌ Cloud <br> ✅ Self-hosted | Open Source
 Slaask | https://get.slaask.com/ | ❌ | Requires Slack
 Smallchat | https://small.chat/ | ✅ | Requires Slack
