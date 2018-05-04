@@ -24,4 +24,5 @@ Smallchat | https://small.chat/ | ✅ | Requires Slack
 Smartsupp | https://www.smartsupp.com | ✅
 Tawk.to | https://www.tawk.to/ | ✅
 UseResponse | https://www.useresponse.com/live-chat-messengers-software | ❌
+Userlike | https://www.userlike.com/ | ✅
 ZenDesk Chat | https://www.zendesk.nl/chat/ | ✅
