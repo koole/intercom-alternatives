@@ -11,6 +11,7 @@ Drift | https://www.drift.com/ | ✅
 Freshchat | https://www.freshworks.com/live-chat-software/ | ✅
 GoSquared Live Chat | https://www.gosquared.com/live-chat/ | ❌
 HelpCrunch | https://helpcrunch.com/ | ❌
+indemandly | https://indemandly.com/ | ✅
 Jivochat | https://www.jivochat.com/ | ✅
 Kayako | https://www.kayako.com/ | ✅
 Kustomer | https://www.kustomer.com/ | ❌
