@@ -26,6 +26,7 @@ Slaask | https://get.slaask.com/ | ❌ | Requires Slack
 Smallchat | https://small.chat/ | ✅ | Requires Slack
 Smartsupp | https://www.smartsupp.com | ✅
 Tawk.to | https://www.tawk.to/ | ✅
+Tidio | https://www.tidiochat.com/ | ✅
 UseResponse | https://www.useresponse.com/live-chat-messengers-software | ❌
 Userlike | https://www.userlike.com/ | ✅
 ZenDesk Chat | https://www.zendesk.nl/chat/ | ✅
