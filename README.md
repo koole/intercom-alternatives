@@ -27,6 +27,7 @@ Smallchat | https://small.chat/ | ✅ | Requires Slack
 Smartsupp | https://www.smartsupp.com | ✅
 Tawk.to | https://www.tawk.to/ | ✅
 Tidio | https://www.tidiochat.com/ | ✅
+Trengo | https://trengo.nl | ❌
 UseResponse | https://www.useresponse.com/live-chat-messengers-software | ❌
 Userlike | https://www.userlike.com/ | ✅
 ZenDesk Chat | https://www.zendesk.nl/chat/ | ✅
