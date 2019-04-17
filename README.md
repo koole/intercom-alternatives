@@ -25,6 +25,7 @@ Rocket.Chat | https://rocket.chat/ | ❌ Cloud <br> ✅ Self-hosted | Open Sourc
 Slaask | https://get.slaask.com/ | ❌ | Requires Slack
 Smallchat | https://small.chat/ | ✅ | Requires Slack
 Smartsupp | https://www.smartsupp.com | ✅
+SnapEngage | https://snapengage.com/solutions/support/ | ✅
 Tawk.to | https://www.tawk.to/ | ✅
 Tidio | https://www.tidiochat.com/ | ✅
 Trengo | https://trengo.nl | ❌
