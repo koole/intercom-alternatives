@@ -1,5 +1,5 @@
-# Shittercom
-Alternatives for Intercoms' online chat support system for your website
+# Shittercom - Intercom Alternatives
+Great alternatives for Intercoms' online chat support system for your website
 
 Product | Website | Free plan | Notes
 ------------ | ------------- | ------------- | -------------
@@ -10,7 +10,7 @@ Crisp | https://crisp.chat/ | ✅
 Drift | https://www.drift.com/ | ✅
 Freshchat | https://www.freshworks.com/live-chat-software/ | ✅
 GoSquared Live Chat | https://www.gosquared.com/live-chat/ | ❌
-HelpCrunch | https://helpcrunch.com/ | ❌
+HelpCrunch | https://helpcrunch.com/ | ✅
 HubSpot Conversations | https://www.hubspot.com/products/crm/conversations | ✅
 indemandly | https://indemandly.com/ | ✅
 Jivochat | https://www.jivochat.com/ | ✅
@@ -21,7 +21,7 @@ LiveChat | https://www.livechatinc.com/ | ❌
 Olark | https://www.olark.com/ | ❌
 Output Desk | http://www.outputdesk.com/ | ✅
 Pure Chat | https://purechat.com/ | ✅
-Rocket.Chat | https://rocket.chat/ | ❌ Cloud <br> ✅ Self-hosted | Open Source
+Rocket.Chat | https://rocket.chat/ | ❌Cloud <br> ✅Selfhosted | Open Source
 Slaask | https://get.slaask.com/ | ❌ | Requires Slack
 Smallchat | https://small.chat/ | ✅ | Requires Slack
 Smartsupp | https://www.smartsupp.com | ✅
