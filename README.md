@@ -8,6 +8,7 @@ Product | Open Source | Free plan | Slack<br>Required
 [Chatlio](https://chatlio.com/) | ❌ | ❌ | ☑️
 [Crisp](https://crisp.chat/) | ❌ | ✅ | ❎
 [Drift](https://www.drift.com/) | ❌ | ✅ | ❎
+[Dashly](https://www.dashly.io/) | ❌ | ✅ | ❎
 [Freshchat](https://www.freshworks.com/live-chat-software/) | ❌ | ✅ | ❎
 [GoSquared Live Chat](https://www.gosquared.com/live-chat/) | ❌ | ❌ | ❎
 [HelpCrunch](https://helpcrunch.com/) | ❌ | ✅ | ❎
