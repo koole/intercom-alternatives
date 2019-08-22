@@ -1,5 +1,6 @@
-# Shittercom - Intercom Alternatives
-Great alternatives for Intercoms' online chat support system for your website
+# Intercom Alternatives
+
+Great alternatives for Intercoms' messenger / chat support system for your website
 
 Product | Open Source | Free plan | Slack<br>Required
 ------------ | ------------- | ------------- | -------------
