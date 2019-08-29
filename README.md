@@ -16,7 +16,7 @@ Product | Open Source | Free plan | Slack<br>Required
 [HubSpot Conversations](https://www.hubspot.com/products/crm/conversations) | ❌ | ✅ | ❎
 [indemandly](https://indemandly.com/) | ❌ | ✅ | ❎
 [Jivochat](https://www.jivochat.com/) | ❌ | ✅ | ❎
-[Kayako](https://www.kayako.com/) | ❌ | ✅ | ❎
+[Kayako](https://www.kayako.com/) | ❌ | ❌ | ❎
 [Kustomer](https://www.kustomer.com/) | ❌ | ❌ | ❎
 [LiveAgent](https://www.ladesk.com/) | ❌ | ❌ | ❎
 [LiveChat](https://www.livechatinc.com/) | ❌ | ❌ | ❎
