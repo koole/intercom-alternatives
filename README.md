@@ -20,8 +20,8 @@ Product | Open Source | Free plan | Slack<br>Required
 [Kustomer](https://www.kustomer.com/) | ❌ | ❌ | ❎
 [LiveAgent](https://www.ladesk.com/) | ❌ | ❌ | ❎
 [LiveChat](https://www.livechatinc.com/) | ❌ | ❌ | ❎
-[LiveZilla](https://www.livezilla.net/) | ❌ | ❎ | ☑️
-[Olark](https://www.olark.com/) | ❌ | ❌ | ❎
+[LiveZilla](https://www.livezilla.net/) | ❌ | ✅ | ☑️
+[Olark](https://www.olark.com/) | ❌ | ✅ | ❎
 [Output Desk](http://www.outputdesk.com/) | ❌ | ✅ | ❎
 [Pure Chat](https://purechat.com/) | ❌ | ✅ | ❎
 [Rocket.Chat](https://rocket.chat/) | ✅ | ❌ | ❎
