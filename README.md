@@ -28,7 +28,7 @@ Product | Open Source | Free plan | Slack<br>Required
 [Slaask](https://get.slaask.com/) | ❌ | ❌ | ☑️
 [Smallchat](https://small.chat/) | ❌ | ✅ | ☑️
 [Smartsupp](https://www.smartsupp.com) | ❌ | ✅ | ❎
-[SnapEngage](https://snapengage.com/solutions/support/) | ❌ | ✅ | ❎
+[SnapEngage](https://snapengage.com/solutions/support/) | ❌ | ❌ | ❎
 [Tawk.to](https://www.tawk.to/) | ❌ | ✅ | ❎
 [Tidio](https://www.tidiochat.com/) | ❌ | ✅ | ❎
 [Trengo](https://trengo.nl/) | ❌ | ❌ | ❎
