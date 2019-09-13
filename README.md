@@ -21,6 +21,7 @@ Product | Open Source | Free plan | Slack<br>Required
 [LiveAgent](https://www.ladesk.com/) | ❌ | ❌ | ❎
 [LiveChat](https://www.livechatinc.com/) | ❌ | ❌ | ❎
 [LiveZilla](https://www.livezilla.net/) | ❌ | ✅ | ☑️
+[MyLiveChat](https://www.mylivechat.com/) | ❌ | ✅ | ❎
 [Olark](https://www.olark.com/) | ❌ | ✅ | ❎
 [Output Desk](http://www.outputdesk.com/) | ❌ | ✅ | ❎
 [Pure Chat](https://purechat.com/) | ❌ | ✅ | ❎
