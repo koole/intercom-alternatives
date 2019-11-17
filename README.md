@@ -2,11 +2,12 @@
 
 Great alternatives for Intercoms' messenger / chat support system for your website
 
-Product | Open Source | Free plan | Slack<br>Required
+Product | Open Source | Free hosted plan | Slack<br>Required
 ------------ | ------------- | ------------- | -------------
 [Chaport](https://www.chaport.com/) | ❌ | ✅ | ❎
 [Chat.io](https://www.chat.io/) | ❌ | ❌ | ❎
 [Chatlio](https://chatlio.com/) | ❌ | ❌ | ☑️
+[Chatwoot](https://www.chatwoot.com/) | ✅ | ❌ | ❎
 [Crisp](https://crisp.chat/) | ❌ | ✅ | ❎
 [Drift](https://www.drift.com/) | ❌ | ✅ | ❎
 [Dashly](https://www.dashly.io/) | ❌ | ✅ | ❎
