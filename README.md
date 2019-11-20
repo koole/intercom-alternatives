@@ -1,6 +1,6 @@
 # Intercom Alternatives
 
-Great alternatives for Intercoms' messenger / chat support system for your website
+Great alternatives for the Intercom messenger / chat support system for your website
 
 Product | Open Source | Free hosted plan | Slack<br>Required
 ------------ | ------------- | ------------- | -------------
