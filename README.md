@@ -8,6 +8,7 @@ Product | Open Source | Free hosted plan | Slack<br>Required
 [Chat.io](https://www.chat.io/) | ❌ | ❌ | ❎
 [Chatlio](https://chatlio.com/) | ❌ | ❌ | ☑️
 [Chatwoot](https://www.chatwoot.com/) | ✅ | ❌ | ❎
+[Customerly](https://www.customerly.io/) | ❌ | ✅ | ❎
 [Crisp](https://crisp.chat/) | ❌ | ✅ | ❎
 [Drift](https://www.drift.com/) | ❌ | ✅ | ❎
 [Dashly](https://www.dashly.io/) | ❌ | ✅ | ❎
