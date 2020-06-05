@@ -28,6 +28,7 @@ Product | Open Source | Free hosted plan | Slack<br>Required
 [Olark](https://www.olark.com/) | ❌ | ✅ | ❎
 [Output Desk](http://www.outputdesk.com/) | ❌ | ✅ | ❎
 [Pure Chat](https://purechat.com/) | ❌ | ✅ | ❎
+[Qualified](https://www.qualified.com) | ❌ | ❌ | ❎
 [Rocket.Chat](https://rocket.chat/) | ✅ | ❌ | ❎
 [Slaask](https://get.slaask.com/) | ❌ | ❌ | ☑️
 [Smallchat](https://small.chat/) | ❌ | ✅ | ☑️
