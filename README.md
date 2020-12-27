@@ -4,6 +4,7 @@ Great alternatives for the Intercom messenger / chat support system for your web
 
 Product | Open Source | Free hosted plan | Slack<br>Required
 ------------ | ------------- | ------------- | -------------
+[Atlasmic](https://www.atlasmic.com) | ❌ | ❌ | ❎
 [Chaport](https://www.chaport.com/) | ❌ | ✅ | ❎
 [Chat.io](https://www.chat.io/) | ❌ | ❌ | ❎
 [Chatlio](https://chatlio.com/) | ❌ | ❌ | ☑️
