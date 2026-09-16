@@ -15,6 +15,7 @@ Product | Open Source | Free hosted plan | Slack<br>Required
 [Dashly](https://www.dashly.io/) | ❌ | ✅ | ❎
 [Freshchat](https://www.freshworks.com/live-chat-software/) | ❌ | ✅ | ❎
 [Front](https://frontapp.com/) | ❌ | ❌ | ❎
+[Gleap](https://gleap.io) | ❌ | ❌ | ❎
 [GoSquared Live Chat](https://www.gosquared.com/live-chat/) | ❌ | ❌ | ❎
 [HelpCrunch](https://helpcrunch.com/) | ❌ | ✅ | ❎
 [HubSpot Conversations](https://www.hubspot.com/products/crm/conversations) | ❌ | ✅ | ❎
