@@ -29,6 +29,7 @@ Product | Open Source | Free hosted plan | Slack<br>Required
 [MyLiveChat](https://www.mylivechat.com/) | ❌ | ✅ | ❎
 [Olark](https://www.olark.com/) | ❌ | ✅ | ❎
 [Output Desk](http://www.outputdesk.com/) | ❌ | ✅ | ❎
+[Peeve](https://peeve.ai) | ❌ | ❌ | ❎
 [Pure Chat](https://purechat.com/) | ❌ | ✅ | ❎
 [Qualified](https://www.qualified.com) | ❌ | ❌ | ❎
 [Rocket.Chat](https://rocket.chat/) | ✅ | ❌ | ❎
